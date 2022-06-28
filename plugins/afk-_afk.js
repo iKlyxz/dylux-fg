@@ -20,7 +20,7 @@ export function before(m) {
             continue
         let reason = user.afkReason || ''
         m.reply(`
-✳️ El usuario que mencionas está AFK 
+✳️ 𝐂𝐀𝐔𝐒𝐀 𝐃𝐄𝐉𝐀 𝐃𝐄 𝐉𝐎𝐃𝐄𝐑, 𝐄𝐒𝐓𝐎𝐘 𝐀𝐇𝐎𝐑𝐀 𝐄𝐍: 
 ${reason ? '▢ *Razón* : ' + reason : '*Sin razón*'}
 ▢ Durante : ${(new Date - afkTime).toTimeString()}
   `.trim())
