@@ -7,7 +7,7 @@ const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadm
 let text = `
 ≡ *STAFF DEL GRUPO* _${groupMetadata.subject}_
 
-┌─⊷ *ADMINS*
+┌─⊷ *🍆𝐋𝐎𝐒 𝐌𝐀𝐒 𝐊𝐂𝐇𝐄𝐑𝐎𝐒 𝐃𝐄𝐋 𝐆𝐑𝐔𝐏𝐎🍑💦*
 ▢ ${listAdmin}
 └───────────
 `.trim()
