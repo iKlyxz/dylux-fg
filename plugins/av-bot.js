@@ -9,7 +9,7 @@ let fgac = ["criss", "andrea"]
 let nfg = fgac[Math.floor(Math.random() * fgac.length)] 
 let av = `./src/mp3/${nfg}.mp3`
 
-conn.sendHydrated(m.chat, `Hola *${name}* \n \nNecesitas ayuda? \n`, igfg, '', 'https://youtube.com/fg98f', 'YouTube', null, null, [
+conn.sendHydrated(m.chat, `Hola *${name}* \n \nNecesitas ayuda? \n`, igfg, '', 'https://instagram.com/not.sxrgio', 'Instagram', null, null, [
       ['⦙☰ Menu', '/help'],
       ['⦙☰ Menu 2', '/menu2'],
       ['⌬ Grupos', '/gpdylux']
