@@ -4,30 +4,30 @@ function handler(m) {
   
   m.reply(`
 *≡ OWNER*
-  *FG98*
+  *Not.Sxrgio*
 ▢ Instagram :
-  • https://instagram.com/fg98._
+  • https://instagram.com/not.sxrgio
 ▢ WhatsApp :
   • (escribe solo si es necesario) 
 ▢ GitHub :
-  • https://github.com/FG98F
+  • 
 ▢ Telegram : 
-  • t.me/fgsupp_bot (FG) 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
+  • t.me/legalizala
+  • t.me/
+  • t.me/
 ▢ Facebook : 
-  • https://facebook.com/fg98ff/
-  • https://facebook.com/fg98A/
+  • https://facebook.com/ItzMeKingWT
+  • https://facebook.com/ItzMeKingWT
 ▢ YouTube : 
-  • https://youtube.com/fg98f
+  • 
   
  *≡ HELPERS*
-  *CRISS*
-▢ Instagram : https://www.instagram.com/sayurizuniga3
+  *NADA*
+▢ Instagram :
 ▢ WhatsApp : wa.me/
-  *ANDREA*
+  *GABRIEL*
 ▢ Instagram : https://
-▢ WhatsApp : wa.me/573125484672
+▢ WhatsApp : wa.me/51977802958
 `) 
 
 
